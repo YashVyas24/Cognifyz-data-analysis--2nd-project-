@@ -52,6 +52,12 @@ bash
   python scripts/task2.py
   python scripts/task3.py
 
+👨‍💻 Author
+
+Yash VyasData Analysis Intern at Cognifyz Technologies
+
+e and available under the MIT License.
+
 
   
 
